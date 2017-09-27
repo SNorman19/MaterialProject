@@ -2,4 +2,4 @@
 ## Material Design Tutorial
 ### By Scott Sept 2017
 
-Recapping :octocat: at Universty 
+Recapping :octocat: at University 
