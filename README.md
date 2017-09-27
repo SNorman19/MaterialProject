@@ -1,2 +1,5 @@
 # MaterialProject
-Material Design Tutorial
+## Material Design Tutorial
+### By Scott Sept 2017
+
+Recapping :octocat: at Universty students
